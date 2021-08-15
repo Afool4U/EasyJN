@@ -2,7 +2,7 @@
 
 易江南V1.0
 
-Copyright (c) 2021 - 2099 郝景龙
+Copyright (c) 2021 郝景龙 All rights reserved.
 
 网站: https://github.com/Afool4U/EasyJN 
 
