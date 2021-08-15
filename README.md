@@ -4,7 +4,7 @@
 
 ## EasyJU
 
-[Chinese](/README.md) |[ 简体中文](/README.md)
+[English](/README.md) |[ 简体中文](/README.md)
 
 ### 介绍
 
