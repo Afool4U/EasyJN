@@ -2,7 +2,7 @@
 <img src="/image/logo.jpg"/ width="100">
 </div>
 
-## EasyJU
+## EasyJN
 
 [English](/README.md) |[ 简体中文](/README.md)
 
