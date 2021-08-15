@@ -1,5 +1,5 @@
 <div align=center>
-<img src="/image/logo.png"/>
+<img src="/image/logo.jpg"/>
 </div>
 
 ## EasyJU
