@@ -36,7 +36,7 @@ EasyJN是江南大学新生入学考试的一个辅助搜索工具。只需要�
 
 ### 版权
 
-Copyright (c) 2021 郝景龙 All rights reserved.
+Copyright (c) 2021 郝景龙，All rights reserved.
 
 本软件为免费软件， 但不得逆向、破解、修改、以及用作商业用途
 
